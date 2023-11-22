@@ -1,6 +1,6 @@
 # vse97_coding_assignment3
 
-In this notebook, I assessed the fairness of Google's Perspective API with regard to gender discrimination. I hypothesize that the model will be less likely to mark anti-female derogatory comments as toxic than anti-male comments.To test this, I wrote 3 pairs of comments, each consisting of two comments which were identical except for gendered language, which was female in one comment and male in the other.
+In this assignment, I assessed the fairness of Google's Perspective API with regard to gender discrimination. I hypothesize that the model will be less likely to mark anti-female derogatory comments as toxic than anti-male comments.To test this, I wrote 3 pairs of comments, each consisting of two comments which were identical except for gendered language, which was female in one comment and male in the other.
 
 The comments used were: "These girls don't know anything", "These boys don't know anything", "This woman is so stupid", "This man is so stupid", "I hate it when girls act like this", and "I hate it when boys act like this".
 
